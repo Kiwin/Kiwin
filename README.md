@@ -3,7 +3,7 @@
 
 <h3 align="center">✨Passionate about software design, webdev, gamedev, modding.</h3>
 
-<p align="center">🌱 I’m currently learning: <a href="" target="_blank">ReactJs</a></p>
+<p align="center">🌱 I’m currently learning: <a href="https://angular.io/" target="_blank">Angular</a></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
