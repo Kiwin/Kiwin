@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiwin</h1>
 <h3 align="center">Data Technician Specialized in Programming</h3>
 
-<h3 align="center">✨Passionate about software design, webdev, gamedev, modding, robots.</h3>
+<h3 align="center">✨Passionate about software design, webdev, gamedev, modding, robots, and everything in between!😁</h3>
 
 <p align="center">🌱 I’m currently learning: Español</p>
 
