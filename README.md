@@ -3,7 +3,7 @@
 
 <h3 align="center">✨Passionate about software design, webdev, gamedev, modding, robots, and everything in between!😁</h3>
 
-<p align="center">🌱 I’m currently learning: Español</p>
+<p align="center">🌱 I’m currently learning: React.js</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
