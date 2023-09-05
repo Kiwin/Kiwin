@@ -1,12 +1,11 @@
 <h1>Hi 👋, 
 I'm 🥝</h1>
 
-<h2>✨ Excited about ✨ </h2>
-👨‍💻 Code and Software Design
-🧐 UI & UX 
-🕹 Video Game Design
-🏠📐 Architecture
-🤖🧠 robots and AI
-
-
-<h3>🌱 I’m currently learning: React.js</h3>
+<h3>✨ Excited about ✨ </h3>
+<p></p>🖥🖱 Code and Software Design
+<p></p>🧐🖼 UI & UX 
+<p></p>🕹🎮 Video Game Design
+<p></p>🏠📐 Architecture
+<p></p>🤖🧠 robots and AI
+<p></p>⚙🦾 Machines and Automation
+<p></p> ... and everything in between 😁</p>
